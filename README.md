@@ -43,6 +43,13 @@ visitor-log/
 └── README.md
 ```
 
+## Getting the project
+
+Clone the repository using Git:
+
+git clone <https://github.com/numbsku1/visitor-log.git>
+cd visitor-log
+
 ## Prerequisites
 
 Install the following before running the application:
